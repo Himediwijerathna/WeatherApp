@@ -14,9 +14,9 @@ Features
 2. Open the project in Android Studio.
 3. Add your OpenWeatherMap API key in strings.xml:
    
--<string name="api_key">your_api_key_here</string>
--<string name="api_key">525c30e890b57ea624ef16d6e2b4a347</string>
-5. Build and run the project on an emulator or physical device.
+"<string name="api_key">your_api_key_here</string>"
+"<string name="api_key">525c30e890b57ea624ef16d6e2b4a347</string>"
+4. Build and run the project on an emulator or physical device.
 
 API Key
 Get your API key from OpenWeatherMap (https://openweathermap.org/api) and add it to the project.
