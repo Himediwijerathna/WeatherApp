@@ -19,5 +19,4 @@ Features
 API Key
 Get your API key from OpenWeatherMap (https://openweathermap.org/api) and add it to the project.
 
-Developer
 Developed by Himedi Wijerathna
