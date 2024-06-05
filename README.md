@@ -13,10 +13,9 @@ Features
     git clone https://github.com/yourusername/WeatherApp.git
 2. Open the project in Android Studio.
 3. Add your OpenWeatherMap API key in strings.xml:
-   ```xml
-<!-- Add your API key here -->
-<string name="api_key">your_api_key_here</string>
-<string name="api_key">525c30e890b57ea624ef16d6e2b4a347</string>
+ 
+< string name="api_key">your_api_key_here</string >
+< string name="api_key">525c30e890b57ea624ef16d6e2b4a347</strin > 
 4. Build and run the project on an emulator or physical device.
 
 API Key
